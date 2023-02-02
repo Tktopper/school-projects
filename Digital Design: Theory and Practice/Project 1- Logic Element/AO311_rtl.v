@@ -9,5 +9,5 @@ module ao311_rtl (
   input a,b,c,d,e, //listed inputs
   output z //listed outputs
   );
-  assign z = (a * b) * c & (d & e) ; //equation of my ao311 circuit
+  assign z = (a | b) | c & (d & e) ; //equation of my ao311 circuit
 endmodule
