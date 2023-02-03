@@ -1,0 +1,15 @@
+/*
+Tanner Kleintop
+CMPSC 121
+The purpose of this code is to display hello world in the console!
+*/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
