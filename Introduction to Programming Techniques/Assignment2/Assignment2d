@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int number1;
+	int number2;
+	cout << "Enter two integers to compare=>";
+	cin >> number1 >> number2;
+
+	if (number1 == number2)
+		cout << number1 << " equals " << number2 << endl;
+	if (number1 != number2)
+		cout << number1 << " does not equal " << number2 << endl;
+	if (number1 > number2)
+		cout << number1 << " is greater than " << number2 << endl;
+	if (number1 < number2)
+		cout << number1 << " is less than " << number2 << endl;
+	if (number1 >= number2)
+		cout << number1 << " is greater than or equal to " << number2 << endl;
+	if (number1 <= number2)
+		cout << number1 << " is less than or equal to " << number2 << endl;
+
+	system("pause");
+	return 0;
+}
