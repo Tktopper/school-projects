@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 9", "Assignment 9.vcxproj", "{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|arm64.ActiveCfg = Debug|arm64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|arm64.Build.0 = Debug|arm64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|x64.ActiveCfg = Debug|x64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|x64.Build.0 = Debug|x64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Debug|x86.Build.0 = Debug|Win32
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|arm64.ActiveCfg = Release|arm64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|arm64.Build.0 = Release|arm64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|x64.ActiveCfg = Release|x64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|x64.Build.0 = Release|x64
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|x86.ActiveCfg = Release|Win32
+		{B6E2CC7E-6422-4953-A4BA-BD82A86AE90C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F442B041-EAB7-4149-957C-7DCFE5D8BF38}
+	EndGlobalSection
+EndGlobal
