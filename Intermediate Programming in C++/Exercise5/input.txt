@@ -1,0 +1,10 @@
+dog over brown
+over red jumped
+red The quick
+The null null
+quick null null
+jumped fox null
+fox null null
+brown the lazy
+the null null
+lazy null null
