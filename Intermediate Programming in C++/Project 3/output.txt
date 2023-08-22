@@ -1,0 +1,14 @@
+Inserting 18
+18 
+Inserting 10
+10 18 
+Inserting 29
+10 18 29 
+Inserting 21
+10 18 21 29 
+Inserting 10
+10 10 18 21 29 
+Inserting 26
+10 10 18 21 26 29 
+10 10 18 21 26 29 
+10 10 18 21 26 29 
